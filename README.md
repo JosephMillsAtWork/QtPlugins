@@ -1,23 +1,20 @@
-<<<<<<< HEAD
 ## This is a Alpha Software that is under **HEAVEY DEVELOPMENT**
 
 =======
 ## This is a alpha Software that is under **HEAVEY DEVELOPMENT**
 
-
-
-
 ## Deps for compiling
->>>>>>> e548bc66fa08fc76b40cdeb5b0b3c58464d98769
 ## Linux
 ***
 
 ## Building
 ## Deps for compiling
 ### debian 
+
 ```bash
 sudo apt-get install libavahi-compat-libdnssd-dev libbotan1.10-dev mysql-client-5.5 libmysqlclient-dev libmodbus-dev asciidoc autoconf automake autotools-dev dh-autoreconf libtool xmlto xsltproc libcurl$
 ```
+
 ### Qml Plugins and Tools Application
 ```bash
 mkdir build
